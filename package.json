@@ -20,8 +20,8 @@
   "info": {
     "githubURL": "REACT-UPM/P2_productos_MOOC",
     "serverUrl": "https://moocbot.dit.upm.es/",
-    "courseId": "1313",
-    "assignmentId": "661"
+    "courseId": "1510",
+    "assignmentId": "857"
   },
   "scripts": {
     "start": "react-scripts start",
