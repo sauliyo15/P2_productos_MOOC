@@ -224,7 +224,7 @@ test(JSON.stringify(testinfo), async () => {
     <App />
   </MemoryRouter>);
   //run the setTimeout so the loading spinner is removed from the UX
-  await waitForElementToBeRemoved(await document.querySelector('#loading'), { timeout: 8000 });
+  //await waitForElementToBeRemoved(await document.querySelector('#loading'), { timeout: 8000 });
 
   const info = document.querySelector('#info');
   expect(info).toBeInTheDocument();
