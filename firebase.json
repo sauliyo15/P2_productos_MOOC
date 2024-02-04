@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "catalogodesaul",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

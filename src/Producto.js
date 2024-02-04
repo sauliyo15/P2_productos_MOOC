@@ -31,7 +31,7 @@ export default function Producto(props) {
           <Card.Text>{producto.description}</Card.Text>
         </Card.Body>
         <Link to={"/"}>
-          <Button id="volver" variant="primary" style={{ width: "18rem", height: "3rem" }}>
+          <Button id="volver" variant="success" style={{ width: "18rem", height: "3rem" }}>
             Volver
           </Button>
         </Link>
